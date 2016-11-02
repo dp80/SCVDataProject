@@ -60,4 +60,8 @@
 	</build>
 
 
+	<scm>
+		<url>https://github.com/dp80/SCVDataProject.git</url>
+		<connection>https://github.com/dp80/SCVDataProject.git</connection>
+	</scm>
 </project>
