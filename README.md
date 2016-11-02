@@ -1,3 +1,3 @@
 # SCVDataProject
 
-## Java jdbc project for db cleanup
+## Java jdbc project for mass db cleanup
